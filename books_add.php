@@ -1,7 +1,7 @@
 <?php
 //phpinfo();
 ?>
-<html>
+<html> 
 	<head>
 		<title>添加书目信息</title>
 	</head>
@@ -14,7 +14,7 @@
 		<label>出版时间</label>
 		<input type = "text" name = "printtime"></input></br>
 		<label>条形码</label>
-		<input type = "text" name = "barcode"></input></br>
+		<input type = "text" name = "batcode"></input></br>
 		<label>书目类型</label>
 		<input type = "text" name = "booktype"></input></br>
 		<button type = "submit" >提交啊</button>
